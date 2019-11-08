@@ -14,3 +14,7 @@ In the terminal run:
 
 In a new terminal run:
 `npm run dev`
+
+## Testing in GraphiQL
+
+GraphiQL is available at http://localhost:4000/graphql
