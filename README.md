@@ -24,8 +24,16 @@ GraphiQL is available at http://localhost:4000/graphql
 
 ## Section 6
 
-## Geting started
+### Getting started
 
 In the terminal run:
 `cd Lyrical-GraphQL`
 `npm install`
+
+### Starting the local server
+
+In the terminal run:
+`npm run dev`
+
+View the app at: http://localhost:4000/
+View GraphiQL at : http://localhost:4000/graphql
