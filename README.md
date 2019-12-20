@@ -37,3 +37,7 @@ In the terminal run:
 
 View the app at: http://localhost:4000/
 View GraphiQL at : http://localhost:4000/graphql
+
+#### Note
+
+The MongoDB cluster may only be accessed from white listed IP addresses
