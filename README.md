@@ -22,7 +22,7 @@ In a new terminal run:
 
 GraphiQL is available at http://localhost:4000/graphql
 
-## Section 6
+## Section 6-11
 
 ### Getting started
 
@@ -41,3 +41,16 @@ View GraphiQL at : http://localhost:4000/graphql
 #### Note
 
 The MongoDB cluster may only be accessed from white listed IP addresses
+
+## Section 12
+
+### Getting started
+
+In the terminal run:
+`cd auth-graphql`
+`npm install`
+
+### Starting the local server
+
+In the terminal run:
+`npm run dev`
